@@ -4,3 +4,7 @@ nav:
   - Home: index.md
   - Server Regels: regels.md
   - Formeel Recht: wetboek.md
+
+plugins:
+  - netlify-plugin-inline-critical-css
+  - netlify-plugin-search-index
