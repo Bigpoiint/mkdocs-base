@@ -7,7 +7,7 @@ nav:
 
 theme:
     name: mkdocs
-    locale: nl
+    locale: en
     custom_dir: my_theme_customizations/
     static_templates:
         - sitemap.html
