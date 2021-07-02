@@ -4,3 +4,8 @@ nav:
   - Home: index.md
   - Server Regels: regels.md
   - Formeel Recht: wetboek.md
+
+repo_url: https://github.com/mkdocs/mkdocs-bootswatch
+
+  theme:
+    name: flatly
