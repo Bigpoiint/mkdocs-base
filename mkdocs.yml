@@ -1,6 +1,6 @@
-site_name: BigPoint RP
-site_description: 'wet en regelgeving van BigPoint'
+site_name: BigPoint RP | Wet en regelgeving
+site_description: 'Wet en regelgeving van BigPoint'
 nav:
   - Home: index.md
-  - Algemene Plaatselijke Verordening: apv.md
-  - Wetboek: wetboek.md
+  - Materieel Recht: apv.md
+  - Formeel Recht: wetboek.md
