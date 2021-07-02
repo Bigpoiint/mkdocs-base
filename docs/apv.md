@@ -1,4 +1,4 @@
-# Algemene Plaatselijke Verordening BigPoint 2021
+# Algemene Plaatselijke Verordening BigPoint 2021-2022
 
 ## Algemene Bepalingen
 
