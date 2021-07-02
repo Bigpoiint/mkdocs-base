@@ -2,5 +2,5 @@ site_name: BigPoint RP | Wet en regelgeving
 site_description: 'Wet en regelgeving van BigPoint'
 nav:
   - Home: index.md
-  - Materieel Recht: apv.md
+  - Server Regels: regels.md
   - Formeel Recht: wetboek.md
