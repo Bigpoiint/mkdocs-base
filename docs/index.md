@@ -1,7 +1,5 @@
 # Wet- en Regelgeving BigPoint
 
-TestTestTest Chang
-
 Welkom op de pagina voor de Wet- en Regelgeving van BigPoint!
 In het menu aan de linkerkant vind je alle verschillende documenten die betrekking hebben op BigPoint.
 
