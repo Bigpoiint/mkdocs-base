@@ -5,9 +5,6 @@ nav:
   - Server Regels: regels.md
   - Formeel Recht: wetboek.md
 
-theme:
-    name: mkdocs
-
 plugins:
   - netlify-plugin-inline-critical-css
   - netlify-plugin-search-index
