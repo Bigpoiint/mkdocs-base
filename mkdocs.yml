@@ -5,7 +5,16 @@ nav:
   - Server Regels: regels.md
   - Formeel Recht: wetboek.md
 
+copyright: Copyright &copy; 2014 <a href="https://twitter.com/_tomchristie">Tom Christie</a>, <a href="http://www.dougalmatthews.com/">Dougal Matthews</a>.
+
 repo_url: https://github.com/mkdocs/mkdocs-bootswatch
 
   theme:
     name: flatly
+   
+markdown_extensions:
+    - toc:
+        permalink: '#'
+
+plugins:
+    - search
